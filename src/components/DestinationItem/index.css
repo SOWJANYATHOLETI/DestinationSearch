@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.destination-item {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.destination-img {
+  height: 200px;
+  width: 250px;
+}
+.name {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-top: 10px;
+}
